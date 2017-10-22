@@ -1,3 +1,10 @@
+#other
+.vs
+/Debug
+/Release
+/hotkey/Debug
+/hotkey/Release
+
 # Prerequisites
 *.d
 
@@ -30,3 +37,4 @@
 *.exe
 *.out
 *.app
+
