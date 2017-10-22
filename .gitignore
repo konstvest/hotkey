@@ -4,6 +4,7 @@
 /Release
 /hotkey/Debug
 /hotkey/Release
+*.user
 
 # Prerequisites
 *.d
@@ -31,7 +32,7 @@
 *.lai
 *.la
 *.a
-*.lib
+#*.lib
 
 # Executables
 *.exe
